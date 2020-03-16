@@ -1,3 +1,4 @@
+This repository was forked to remember what I learnt during Data Science Nanodegree.
 
 ### Table of Contents
 
